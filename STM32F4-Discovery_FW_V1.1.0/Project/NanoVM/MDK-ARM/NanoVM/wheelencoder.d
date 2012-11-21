@@ -1,0 +1,9 @@
+.\NanoVM\wheelencoder.o: ..\STM32F4_Discovery\wheelencoder.c
+.\NanoVM\wheelencoder.o: ..\types.h
+.\NanoVM\wheelencoder.o: C:\Keil\ARM\RV31\Inc\inttypes.h
+.\NanoVM\wheelencoder.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\NanoVM\wheelencoder.o: ..\STM32F4_Discovery\iodefs.h
+.\NanoVM\wheelencoder.o: ..\STM32F4_Discovery\wheelencoder.h
+.\NanoVM\wheelencoder.o: ..\STM32F4_Discovery\pwm.h
+.\NanoVM\wheelencoder.o: ..\STM32F4_Discovery\iodefs.h
+.\NanoVM\wheelencoder.o: ..\STM32F4_Discovery\pid.h

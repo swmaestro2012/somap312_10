@@ -1,0 +1,17 @@
+.\NanoVM\native_exception.o: ..\native_exception.c
+.\NanoVM\native_exception.o: ..\types.h
+.\NanoVM\native_exception.o: C:\Keil\ARM\RV31\Inc\inttypes.h
+.\NanoVM\native_exception.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\NanoVM\native_exception.o: ..\debug.h
+.\NanoVM\native_exception.o: ..\config.h
+.\NanoVM\native_exception.o: ..\error.h
+.\NanoVM\native_exception.o: ..\stack.h
+.\NanoVM\native_exception.o: ..\vm.h
+.\NanoVM\native_exception.o: ..\nvmtypes.h
+.\NanoVM\native_exception.o: ..\nvmfeatures.h
+.\NanoVM\native_exception.o: ..\heap.h
+.\NanoVM\native_exception.o: ..\nvmfile.h
+.\NanoVM\native_exception.o: ..\vm.h
+.\NanoVM\native_exception.o: ..\STM32F4_Discovery\native.h
+.\NanoVM\native_exception.o: ..\native_formatter.h
+.\NanoVM\native_exception.o: ..\nvmstring.h

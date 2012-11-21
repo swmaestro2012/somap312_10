@@ -1,0 +1,36 @@
+bb 10 00  (op_new - object)
+59 (op_dup)
+b7 10 00 (op_invokespecial - object)
+3c (istore_1) stack -> local
+bb 10 00  (op_new - object)
+59 (op_dup)
+b7 10 00 (op_invokespecial - object)
+3d (istore_2) stack -> local
+
+
+1b (iload_1) local -> stack
+59 (op_dup)
+3e (istore_3) stack -> local
+
+c2 (monitorenter)
+11 11 00 (sipush)
+12 00    (ldc)
+b6 12 01 (print)
+1d (iload_3) local -> stack
+c3 (monitorexit)
+a7 00 0a (goto)
+
+
+
+1c (iload_2) local -> stack
+59 (op_dup)
+3e (istore_3) stack -> local
+
+c2 (monitorenter)
+11 11 00 (sipush)
+12 01    (ldc)
+b6 12 01 (print)
+1d (iload_3) local -> stack
+c3 (monitorexit)
+a7 00 0a (goto)
+b1 (return)

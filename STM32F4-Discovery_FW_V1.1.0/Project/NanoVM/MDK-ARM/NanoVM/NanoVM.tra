@@ -1,0 +1,77 @@
+*** Creating Trace Output File '.\NanoVM\NanoVM.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\nanovm\startup_stm32f4xx.o"'
+### List of Objects: adding '".\nanovm\system_stm32f4xx.o"'
+### List of Objects: adding '".\nanovm\nanovm.o"'
+### List of Objects: adding '".\nanovm\stm32f4xx_it.o"'
+### List of Objects: adding '".\nanovm\array.o"'
+### List of Objects: adding '".\nanovm\debug.o"'
+### List of Objects: adding '".\nanovm\error.o"'
+### List of Objects: adding '".\nanovm\heap.o"'
+### List of Objects: adding '".\nanovm\loader.o"'
+### List of Objects: adding '".\nanovm\native_formatter.o"'
+### List of Objects: adding '".\nanovm\native_lcd.o"'
+### List of Objects: adding '".\nanovm\native_math.o"'
+### List of Objects: adding '".\nanovm\native_stdio.o"'
+### List of Objects: adding '".\nanovm\nvmcomm1.o"'
+### List of Objects: adding '".\nanovm\nvmcomm2.o"'
+### List of Objects: adding '".\nanovm\nvmfile.o"'
+### List of Objects: adding '".\nanovm\nvmstring.o"'
+### List of Objects: adding '".\nanovm\stack.o"'
+### List of Objects: adding '".\nanovm\uart.o"'
+### List of Objects: adding '".\nanovm\vm.o"'
+### List of Objects: adding '".\nanovm\utils.o"'
+### List of Objects: adding '".\nanovm\delay.o"'
+### List of Objects: adding '".\nanovm\native_exception.o"'
+### List of Objects: adding '".\nanovm\native_thread.o"'
+### List of Objects: adding '".\nanovm\stm32f4_discovery.o"'
+### List of Objects: adding '".\nanovm\stm32f4xx_rcc.o"'
+### List of Objects: adding '".\nanovm\misc.o"'
+### List of Objects: adding '".\nanovm\stm32f4xx_gpio.o"'
+### List of Objects: adding '".\nanovm\stm32f4xx_exti.o"'
+### List of Objects: adding '".\nanovm\stm32f4xx_syscfg.o"'
+### List of Objects: adding '".\nanovm\stm32f4xx_usart.o"'
+### List of Objects: adding '".\nanovm\adc.o"'
+### List of Objects: adding '".\nanovm\display.o"'
+### List of Objects: adding '".\nanovm\ir_rc5.o"'
+### List of Objects: adding '".\nanovm\mouse.o"'
+### List of Objects: adding '".\nanovm\native_bot.o"'
+### List of Objects: adding '".\nanovm\native_clock.o"'
+### List of Objects: adding '".\nanovm\native_display.o"'
+### List of Objects: adding '".\nanovm\native_impl.o"'
+### List of Objects: adding '".\nanovm\native_irreceiver.o"'
+### List of Objects: adding '".\nanovm\native_ldrsensor.o"'
+### List of Objects: adding '".\nanovm\native_leds.o"'
+### List of Objects: adding '".\nanovm\native_lightbarrier.o"'
+### List of Objects: adding '".\nanovm\native_linedetector.o"'
+### List of Objects: adding '".\nanovm\native_motor.o"'
+### List of Objects: adding '".\nanovm\native_mouse.o"'
+### List of Objects: adding '".\nanovm\native_servo.o"'
+### List of Objects: adding '".\nanovm\native_shuttersensor.o"'
+### List of Objects: adding '".\nanovm\native_wheelencoder.o"'
+### List of Objects: adding '".\nanovm\pid.o"'
+### List of Objects: adding '".\nanovm\pwm.o"'
+### List of Objects: adding '".\nanovm\shift.o"'
+### List of Objects: adding '".\nanovm\wheelencoder.o"'
+### List of Objects: adding '".\nanovm\native_distancesensor.o"'
+### List of Objects: adding '".\nanovm\native_edgedetector.o"'
+### List of Objects: adding '".\nanovm\mutex.o"'
+### List of Objects: adding '".\nanovm\scheduler.o"'
+### List of Objects: adding '".\nanovm\task.o"'
+### List of Objects: adding '".\nanovm\context.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp ".\nanovm\startup_stm32f4xx.o" ".\nanovm\system_stm32f4xx.o" ".\nanovm\nanovm.o" ".\nanovm\stm32f4xx_it.o" ".\nanovm\array.o" ".\nanovm\debug.o" ".\nanovm\error.o" ".\nanovm\heap.o" ".\nanovm\loader.o" ".\nanovm\native_formatter.o" ".\nanovm\native_lcd.o" ".\nanovm\native_math.o" ".\nanovm\native_stdio.o" ".\nanovm\nvmcomm1.o" ".\nanovm\nvmcomm2.o" ".\nanovm\nvmfile.o" ".\nanovm\nvmstring.o" ".\nanovm\stack.o" ".\nanovm\uart.o" ".\nanovm\vm.o" ".\nanovm\utils.o" ".\nanovm\delay.o" ".\nanovm\native_exception.o" ".\nanovm\native_thread.o" ".\nanovm\stm32f4_discovery.o" ".\nanovm\stm32f4xx_rcc.o" ".\nanovm\misc.o" ".\nanovm\stm32f4xx_gpio.o" ".\nanovm\stm32f4xx_exti.o" ".\nanovm\stm32f4xx_syscfg.o" ".\nanovm\stm32f4xx_usart.o" ".\nanovm\adc.o" ".\nanovm\display.o" ".\nanovm\ir_rc5.o" ".\nanovm\mouse.o" ".\nanovm\native_bot.o" ".\nanovm\native_clock.o" ".\nanovm\native_display.o" ".\nanovm\native_impl.o" ".\nanovm\native_irreceiver.o" ".\nanovm\native_ldrsensor.o" ".\nanovm\native_leds.o" ".\nanovm\native_lightbarrier.o" ".\nanovm\native_linedetector.o" ".\nanovm\native_motor.o" ".\nanovm\native_mouse.o" ".\nanovm\native_servo.o" ".\nanovm\native_shuttersensor.o" ".\nanovm\native_wheelencoder.o" ".\nanovm\pid.o" ".\nanovm\pwm.o" ".\nanovm\shift.o" ".\nanovm\wheelencoder.o" ".\nanovm\native_distancesensor.o" ".\nanovm\native_edgedetector.o" ".\nanovm\mutex.o" ".\nanovm\scheduler.o" ".\nanovm\task.o" ".\nanovm\context.o" --library_type=microlib --strict --scatter ".\NanoVM\NanoVM.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\NanoVM\NanoVM.map" -o ".\NanoVM\NanoVM.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\NanoVM\NanoVM.axf'
+### ADS-LD Command File: '.\NanoVM\NanoVM.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\NanoVM\NanoVM.lnp', Handle=0x00000374
+### Writing '.lnp' file
+### ADS-LD Command file '.\NanoVM\NanoVM.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

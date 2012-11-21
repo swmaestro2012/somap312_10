@@ -1,0 +1,12 @@
+.\NanoVM\display.o: ..\STM32F4_Discovery\display.c
+.\NanoVM\display.o: ..\STM32F4_Discovery\ct-Bot.h
+.\NanoVM\display.o: ..\config.h
+.\NanoVM\display.o: ..\types.h
+.\NanoVM\display.o: C:\Keil\ARM\RV31\Inc\inttypes.h
+.\NanoVM\display.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\NanoVM\display.o: ..\delay.h
+.\NanoVM\display.o: C:\Keil\ARM\RV31\Inc\stdarg.h
+.\NanoVM\display.o: C:\Keil\ARM\RV31\Inc\stdio.h
+.\NanoVM\display.o: ..\STM32F4_Discovery\display.h
+.\NanoVM\display.o: ..\STM32F4_Discovery\shift.h
+.\NanoVM\display.o: ..\STM32F4_Discovery\iodefs.h

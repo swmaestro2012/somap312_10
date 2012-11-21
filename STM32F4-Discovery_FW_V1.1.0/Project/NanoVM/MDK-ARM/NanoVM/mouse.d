@@ -1,0 +1,9 @@
+.\NanoVM\mouse.o: ..\STM32F4_Discovery\mouse.c
+.\NanoVM\mouse.o: ..\types.h
+.\NanoVM\mouse.o: C:\Keil\ARM\RV31\Inc\inttypes.h
+.\NanoVM\mouse.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\NanoVM\mouse.o: ..\STM32F4_Discovery\ct-Bot.h
+.\NanoVM\mouse.o: ..\config.h
+.\NanoVM\mouse.o: ..\STM32F4_Discovery\mouse.h
+.\NanoVM\mouse.o: ..\delay.h
+.\NanoVM\mouse.o: ..\STM32F4_Discovery\iodefs.h

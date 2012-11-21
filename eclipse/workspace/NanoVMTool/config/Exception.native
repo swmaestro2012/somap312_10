@@ -1,0 +1,7 @@
+#
+# ExcetionTest.native
+#
+
+class java/lang/Exception 45
+
+method <init>:()V 0

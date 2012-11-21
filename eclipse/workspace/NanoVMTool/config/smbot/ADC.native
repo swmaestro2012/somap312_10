@@ -1,0 +1,10 @@
+#
+# ADC.native
+#
+
+class  nanovm/smbot/drivers/ADC 37
+
+method <init>:()V 0
+method getADC:(I)I 1
+method setEnable:(IZ)V 2
+method getEnable:(I)Z 3

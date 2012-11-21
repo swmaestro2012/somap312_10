@@ -1,0 +1,11 @@
+#
+# Integer.native
+#
+
+class java/lang/Integer 46
+
+method <init>:()V 0
+method valueOf:(I)Ljava/lang/Integer; 0
+
+class java/lang/NumberFormatException 47
+class java/lang/ArithmeticException 48

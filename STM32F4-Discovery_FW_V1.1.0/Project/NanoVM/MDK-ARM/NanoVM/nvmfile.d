@@ -1,0 +1,16 @@
+.\NanoVM\nvmfile.o: ..\nvmfile.c
+.\NanoVM\nvmfile.o: ..\types.h
+.\NanoVM\nvmfile.o: C:\Keil\ARM\RV31\Inc\inttypes.h
+.\NanoVM\nvmfile.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\NanoVM\nvmfile.o: ..\debug.h
+.\NanoVM\nvmfile.o: ..\config.h
+.\NanoVM\nvmfile.o: ..\error.h
+.\NanoVM\nvmfile.o: ..\nvmfile.h
+.\NanoVM\nvmfile.o: ..\vm.h
+.\NanoVM\nvmfile.o: ..\nvmtypes.h
+.\NanoVM\nvmfile.o: ..\nvmfeatures.h
+.\NanoVM\nvmfile.o: ..\heap.h
+.\NanoVM\nvmfile.o: ..\nvmfile.h
+.\NanoVM\nvmfile.o: ..\eeprom.h
+.\NanoVM\nvmfile.o: C:\Keil\ARM\RV31\Inc\string.h
+.\NanoVM\nvmfile.o: ..\SynchronizedTest.h

@@ -1,0 +1,15 @@
+.\NanoVM\heap.o: ..\heap.c
+.\NanoVM\heap.o: ..\types.h
+.\NanoVM\heap.o: C:\Keil\ARM\RV31\Inc\inttypes.h
+.\NanoVM\heap.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\NanoVM\heap.o: ..\config.h
+.\NanoVM\heap.o: ..\debug.h
+.\NanoVM\heap.o: ..\error.h
+.\NanoVM\heap.o: ..\utils.h
+.\NanoVM\heap.o: ..\heap.h
+.\NanoVM\heap.o: ..\stack.h
+.\NanoVM\heap.o: ..\vm.h
+.\NanoVM\heap.o: ..\nvmtypes.h
+.\NanoVM\heap.o: ..\nvmfeatures.h
+.\NanoVM\heap.o: ..\nvmfile.h
+.\NanoVM\heap.o: ..\vm.h

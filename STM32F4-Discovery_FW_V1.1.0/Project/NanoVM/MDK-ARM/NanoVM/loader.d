@@ -1,0 +1,17 @@
+.\NanoVM\loader.o: ..\loader.c
+.\NanoVM\loader.o: ..\loader.h
+.\NanoVM\loader.o: ..\types.h
+.\NanoVM\loader.o: C:\Keil\ARM\RV31\Inc\inttypes.h
+.\NanoVM\loader.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\NanoVM\loader.o: ..\config.h
+.\NanoVM\loader.o: ..\debug.h
+.\NanoVM\loader.o: ..\uart.h
+.\NanoVM\loader.o: ..\nvmcomm1.h
+.\NanoVM\loader.o: ..\nvmcomm2.h
+.\NanoVM\loader.o: ..\delay.h
+.\NanoVM\loader.o: ..\nvmfile.h
+.\NanoVM\loader.o: ..\vm.h
+.\NanoVM\loader.o: ..\nvmtypes.h
+.\NanoVM\loader.o: ..\nvmfeatures.h
+.\NanoVM\loader.o: ..\heap.h
+.\NanoVM\loader.o: ..\nvmfile.h

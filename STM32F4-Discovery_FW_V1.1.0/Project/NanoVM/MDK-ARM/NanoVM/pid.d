@@ -1,0 +1,9 @@
+.\NanoVM\pid.o: ..\STM32F4_Discovery\pid.c
+.\NanoVM\pid.o: ..\types.h
+.\NanoVM\pid.o: C:\Keil\ARM\RV31\Inc\inttypes.h
+.\NanoVM\pid.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\NanoVM\pid.o: ..\STM32F4_Discovery\ct-Bot.h
+.\NanoVM\pid.o: ..\config.h
+.\NanoVM\pid.o: ..\STM32F4_Discovery\pid.h
+.\NanoVM\pid.o: ..\STM32F4_Discovery\pwm.h
+.\NanoVM\pid.o: ..\STM32F4_Discovery\iodefs.h
